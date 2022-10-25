@@ -1,5 +1,5 @@
 def is_palindrome(word):
     return word == word[::-1]
 
-a = input()
+a = 'racecar'
 print(is_palindrome(a))
