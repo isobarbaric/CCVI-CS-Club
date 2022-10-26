@@ -3,9 +3,9 @@
  * October 17, 2022
  * This program will print out the times table from 1 to 12, and the if statements format the table.
  */
-package cssolution1;
+package potw;
 
-public class Cssolution1 {
+public class CS_Solution1 {
     public static void main(String[] args) {
         int num = 0;
         for(int i = 1; i <= 12; i++){

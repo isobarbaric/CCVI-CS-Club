@@ -3,7 +3,7 @@
  * October 19, 2022
  * Check if a word is a palindrome.
  */
-package cs_solution2;
+package potw;
 
 public class CS_Solution2 {
 
