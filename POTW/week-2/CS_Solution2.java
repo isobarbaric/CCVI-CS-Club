@@ -1,8 +1,8 @@
-/*
+/**
  * Avinash Anand
- * October 19, 2022
- * Check if a word is a palindrome.
+ * Determine if a given string is a palindrome and print out true/false accordingly.
  */
+
 package potw;
 
 public class CS_Solution2 {

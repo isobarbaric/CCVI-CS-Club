@@ -1,6 +1,5 @@
 /**
  * Krish Shah
- * October 25, 2022
  * Given an array of n numbers (1 ≤ n ≤ 50), determine the maximum sum of any 3 numbers taken from that array.
  */
 

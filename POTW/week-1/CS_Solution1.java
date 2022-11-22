@@ -1,8 +1,8 @@
-/*
+/**
  * Avinash Anand
- * October 17, 2022
- * This program will print out the times table from 1 to 12, and the if statements format the table.
+ * Print out a times table from 1 to 12.
  */
+
 package potw;
 
 public class CS_Solution1 {
