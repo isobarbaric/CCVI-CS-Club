@@ -16,9 +16,6 @@ public class CS_Solution2 {
         return word.equals(reverseWord);
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         String a = "racecar";
         System.out.println(isPalindrome((a)));
