@@ -7,7 +7,7 @@ package potw;
 
 import java.util.Scanner;
 
-public class CS_Solution6 {
+public class CS_Solution7 {
 
 	public static boolean isLeapYear(int year) {
 		boolean isLeapYear = false;
