@@ -1,3 +1,6 @@
+# Krish Shah
+# Script to generate the winner based on contenders numbered #1-n.
+
 import random
 
 n = int(input('Enter the number of contenders: '))
