@@ -11,7 +11,7 @@ public class CS_Solution8b {
     public static int findNumUniqueIntegers(int[] nums) {
         int numCounts[] = new int[101];
 		for (int i = 0; i < nums.length; i++) {
-			numCounts[nums[i]] += 1;
+			numCounts[nums[i]]++;
 		}
 		int numUniqueInt = 0;
 		for (int i = 1; i <= 100; i++) {
