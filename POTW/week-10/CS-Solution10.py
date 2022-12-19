@@ -3,7 +3,7 @@
 n = int(input())
 nums = []
 
-for i in range(n):
+for _ in range(n):
     k = int(input())
     nums.append(k)
 
